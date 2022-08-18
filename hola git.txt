@@ -2,4 +2,8 @@ hola git
 
 estamos probando el repositorio
 
-agregar cambio
+agregar cambio:
+
+1.Cambio realizado por Deivid Esteban Ruales
+
+
