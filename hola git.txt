@@ -1,7 +1,3 @@
 deivid
-origin
-origin
-origin
-origin
-origin
+origin deivid
 
